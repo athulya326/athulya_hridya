@@ -28,7 +28,7 @@ For Software:
 - HTML, CSS, Java
 - [Frameworks used]
 - [Libraries used]
-- [Tools used]
+- [Tools used: google ai studio, vs code
 
 For Hardware:
 - Not applicable — software-only project
@@ -70,8 +70,8 @@ Not applicable — this is a software-only project.
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- Athulya Nair: [Specific contributions]
-- Hridya: [Specific contributions]
+- Athulya Nair: [Leader]
+- Hridya Rachel Prasanth: [Member]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
